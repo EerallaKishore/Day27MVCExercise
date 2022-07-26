@@ -19,8 +19,8 @@ namespace Day27MVCExercise.Controllers
         {
             return new List<Category>
             {
-                new Category { Id=1, Name="AMD Ryzen 5"},
-                new Category { Id=2, Name="Water Bottle"},
+                new Category { Id=1, Name="Mango Tree"},
+                new Category { Id=2, Name="Rose Plant"},
                
             };
         }
